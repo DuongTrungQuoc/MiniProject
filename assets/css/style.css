@@ -316,3 +316,44 @@
 }
 
 /*End Section Blog  */
+
+/* Section Contact  */
+.section-contact {
+  background: #f2f2fe;
+  padding: 80px 0;
+}
+
+.section-contact .inner-content .inner-title {
+  font-size: 18px;
+}
+
+.section-contact .inner-content p {
+  color: #6F8BA4;
+}
+
+.section-contact .inner-form input,
+.section-contact .inner-form textarea {
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 25px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  background: white;
+}
+
+.section-contact .inner-form input {
+  height: 50px;
+}
+
+.section-contact .inner-form textarea {
+  height: 150px;
+}
+
+.section-contact .inner-form input:focus,
+.section-contact .inner-form textarea:focus {
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, .25);
+}
+
+/*End Section Contact  */

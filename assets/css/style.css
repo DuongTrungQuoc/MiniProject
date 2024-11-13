@@ -42,7 +42,9 @@
 .header .inner-menu ul li a:hover {
   color: var(--color-secondary);
 }
-
+.inner-menu ul li a.active {
+  color: #ff0000; /* Thay đổi màu chữ thành màu bạn muốn, ví dụ: đỏ */
+}
 .header .inner-icon-mobi {
   display: none;
 }

@@ -357,3 +357,21 @@
 }
 
 /*End Section Contact  */
+
+/* Footer */
+.footer {
+  background-image: linear-gradient(45deg, var(--color-primary), var(--color-secondary));
+}
+
+.footer .inner-content {
+  text-align: center;
+}
+
+.footer .inner-content .inner-desc {
+  margin: 0;
+  padding: 20px 0;
+  color: white;
+
+}
+
+/* Footer */
